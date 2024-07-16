@@ -88,8 +88,8 @@ body{
                     align-items: end;
                     gap: 20px;
                     & .category{
-                        font-weight: 500;
-                        color: #ffffff;
+                        /* font-weight: 400; */
+                        color: #000000;
                         text-shadow:
                             -1px -1px 0 #ffffff,
                             1px -1px 0 #ffffff,

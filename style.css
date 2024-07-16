@@ -35,6 +35,7 @@ body{
         & nav{
             & ul{
                 display: grid;
+                justify-content: space-around;
                 grid-template-columns: repeat(3, var(--w-column));
             }
         }

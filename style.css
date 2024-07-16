@@ -5,8 +5,9 @@
 }
 body{
     margin: 0;
-    background-color: #ffffff;
-    color: #ff0000;
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 700;
     font-size: 15px;
     font-family: Poppins;
     & *{
@@ -28,7 +29,7 @@ body{
         align-items: center;
         & .logo{
             & img{
-                width: 50px;
+                width: 100px;
             }
         }
         & nav{

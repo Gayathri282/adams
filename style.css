@@ -99,12 +99,12 @@ body{
                     & h2{
                         font-family: 'League Gothic';
                         font-size: 11em;
-                        color: #ffffff;
+                        color: #000000;
                         text-shadow:
-                            -1px -1px 0 #0000001a,
-                            1px -1px 0 #0000001a,
-                            -1px 1px 0 #0000001a,
-                            1px 1px 0 #0000001a;
+                            -1px -1px 0 #ffffff,
+                            1px -1px 0 #ffffff,
+                            -1px 1px 0 #ffffff,
+                            1px 1px 0 #ffffff;
                         line-height: 1em;
                     }
                     & .description{
